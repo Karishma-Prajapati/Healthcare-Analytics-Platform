@@ -1,4 +1,6 @@
 # 🏥 Healthcare Analytics & Multi-Disease Prediction Platform
+Healthcare Analytics and Multi-Disease Prediction Platform using Machine Learning
+
 
 ## Overview
 
