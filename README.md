@@ -1,7 +1,6 @@
 # 🏥 Healthcare Analytics & Multi-Disease Prediction Platform
 Healthcare Analytics and Multi-Disease Prediction Platform using Machine Learning
 
-
 ## Overview
 
 Healthcare Analytics & Multi-Disease Prediction Platform is a Machine Learning powered web application that predicts the risk of Heart Disease and Diabetes using patient health parameters.
