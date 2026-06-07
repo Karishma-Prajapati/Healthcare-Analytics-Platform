@@ -83,6 +83,7 @@ Disease Prediction System/
 
 ---
 
+
 ## Installation
 
 ```bash
@@ -92,6 +93,29 @@ pip install -r requirements.txt
 ```bash
 streamlit run app.py
 ```
+
+---
+## 📸 Application Screenshots
+
+### 🏠 Home Page
+
+![Home Page](Screenshots/home.png)
+
+### 🩺 Disease Prediction
+
+![Prediction Page](Screenshots/diseasePrediction.png)
+
+### 📊 Healthcare Analytics Dashboard
+
+![Analytics Dashboard](Screenshots/analytics.png)
+
+### 🤖 Model Performance
+
+![Model Performance](Screenshots/modelPerformance.png)
+
+### 📋 Patient History
+
+![Patient History](Screenshots/patientHistory.png)
 
 ---
 
